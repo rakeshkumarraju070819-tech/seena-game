@@ -45,3 +45,4 @@ src/utils       gamePhysics, collisionDetection, renderer, audioManager, storage
 public/assets   characters, obstacles, memes, sounds
 ```
 # seena-game
+# seena-game
